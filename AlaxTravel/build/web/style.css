@@ -1,0 +1,133 @@
+body{
+    background-image: url("images/bgpic.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.navbar-brand{
+    font-size: 3em;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: 'Noto Serif Display', serif;
+}
+.nav-item{
+    font-family: 'Zilla Slab', serif;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+}
+.content{
+    color: azure;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    margin: 40px;
+}
+hr{
+    color: antiquewhite;
+    margin: 20px;
+}
+.form-check-label{
+    color: white;
+    font-size: 20px;
+    font-style: oblique;
+}
+#form-heading{
+    color: antiquewhite;
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Noto Serif Display', serif;
+    font-weight: bold;
+}
+.form-check-label1{
+    color: antiquewhite;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Lora', serif;
+    letter-spacing: 1px;
+}
+.btn{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.form-control{
+    padding: 10px;
+    box-shadow: 0 0 5px antiquewhite;
+    outline: none;
+}
+.form-control:focus{
+    outline: none;
+    box-shadow: 0 0 0px antiquewhite
+}
+span{
+
+    color: linen;
+}
+#admin-welcome{
+    font-size: 28px;
+    color: antiquewhite;
+    font-family: 'Noto Serif Display', serif;
+    text-align: center;
+    font-weight: bold;
+}
+.row{
+    margin: 15px;
+}
+.col-md-6{
+    margin-bottom: 20px;
+}
+.card{
+    background-color: black;
+    box-shadow: 8px 8px  10px grey;
+}
+.card-title{
+    color: white;
+}
+.card-text{
+    color: white;
+}
+h5{
+    color: red;
+    margin: 10px;
+    font-family: serif;
+    font-size: 20px;
+}
+h3{
+    font-size: 1.85rem;
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 700;
+}
+.label1{
+    margin-top: 45px;
+    color: antiquewhite;
+    font-family: 'Zilla Slab', serif;
+    font-size: 20px;
+}
+.label2{
+    margin-top: 45px;
+    color: antiquewhite;
+    font-family: 'Zilla Slab', serif;
+    font-size: 20px;
+}
+.label3{
+    margin-top: 45px;
+    color: antiquewhite;
+    font-family: 'Zilla Slab', serif;
+    font-size: 20px;
+}
+.label4{
+    margin-top: 45px;
+    color: antiquewhite;
+    font-family: 'Zilla Slab', serif;
+    font-size: 20px;
+}
+.label5{
+    margin-top: 45px;
+    color: antiquewhite;
+    font-family: 'Zilla Slab', serif;
+    font-size: 20px;
+}
